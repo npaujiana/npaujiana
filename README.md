@@ -54,3 +54,12 @@ Focused on modern frontend architecture, scalable backends, and agentic automati
 ### 📊 GitHub Activity
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=npaujiana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npaujiana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Designed & maintained by Fauzi · Let's connect and build something solid together.</sub>
+</div>
